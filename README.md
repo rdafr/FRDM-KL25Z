@@ -1,2 +1,2 @@
 # FRDM-KL25Z
-Repository used to show some FRDM KL25Z platform experiences
+Repository used for show some FRDM KL25Z platform experiences
